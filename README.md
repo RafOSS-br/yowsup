@@ -58,12 +58,6 @@ You need to have installed Python headers (probably from python-dev package) and
 python setup.py install
 ```
 
-### FreeBSD (*BSD)
-You need to have installed: py27-pip-7.1.2(+), py27-sqlite3-2.7.11_7(+), then run
-```
-pip install yowsup
-```
-
 ### Mac OS
 ```
 python setup.py install
