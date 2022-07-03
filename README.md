@@ -1,10 +1,5 @@
-# yowsup [![Build Status](https://travis-ci.org/tgalal/yowsup.svg?branch=master)](https://travis-ci.org/tgalal/yowsup)
-
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Z9KKEUVYEY6BN" target="_blank"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" /></a>
-
-**For private consultancy feel free to directly schedule it over [codementor](https://www.codementor.io/@tgalal).**
-
----
+<img src='https://dongbum.io/assets/images/gitfork_logo.png' />
+I made a fork because everything was abandoned!
 
 yowsup is a python library that enables building applications that can communicate with WhatsApp users.
 The project started as the protocol engine behind [Wazapp for Meego](https://wiki.maemo.org/Wazapp) and
